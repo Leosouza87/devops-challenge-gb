@@ -1,4 +1,4 @@
-# DevOps Challenge globo
+# DevOps Challenge
 
 Este projeto implementa uma infraestrutura DevOps com duas aplicações em linguagens diferentes (Python e Node.js), camada de cache com NGINX, e observabilidade com Prometheus e Grafana.
 
